@@ -31,5 +31,5 @@ Sou um desenvolvedor front-end Python intermediário, atuando como web developer
 
 ### 6. 📊 GitHub Stats:
 
-![Strats](https://github-readme-stats.vercel.app/api?username=wellingtonmateusy&theme=gruvbox)
-![Strats Lang](https://github-readme-stats.vercel.app/api?username=wellingtonmateusy&show_icons=true&theme=gruvbox&rank_icon=github)
+![Strats](https://github-readme-stats.vercel.app/api?username=wellingtonmateusy&show_icons=true&theme=gruvbox&rank_icon=github)
+![Strats Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=gruvbox)

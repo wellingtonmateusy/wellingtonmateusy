@@ -25,8 +25,11 @@ Sou um desenvolvedor front-end Python intermediário, atuando como web developer
 
 ![GitHub logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### 5. 📊 GitHub Stats:
+### 5. Gerenciador de Domínios:
 
-![Strats](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonmateusy&theme=blue-green)
+![Vercel logo](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 6. 📊 GitHub Stats:
+
 ![Strats](https://github-readme-stats.vercel.app/api?username=wellingtonmateusy&theme=blue-green)
-
+![Strats Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonmateusy&hide_progress=true)

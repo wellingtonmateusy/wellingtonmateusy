@@ -2,9 +2,9 @@
 
 Sou um desenvolvedor front-end Python intermediário, atuando como web developer, tenho habilidade em Boostrap
 
-## Skills:
+## 🚀Skills:
 
-### 1. Linguagem de programação:
+### 👨‍💻1. Linguagem de programação:
 
 ![Python logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
